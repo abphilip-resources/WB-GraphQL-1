@@ -1,7 +1,0 @@
-query {
-  liftCount               # number of lifts
-  allLifts {              # return name and capacity from all lifts
-    name
-    capacity
-  }
-}
