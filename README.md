@@ -1,3 +1,3 @@
 # Web: GraphQL
 
-### [`Playground`](https://snowtooth.moonhighway.com/)
+### [`Snowtooth`](https://snowtooth.moonhighway.com/) | [`Pet-Library`](https://pet-library.moonhighway.com/)
